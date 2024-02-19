@@ -1,0 +1,500 @@
+   32  git commit -m " Output of uname in VM"
+   33  git  push zero_day
+   34  clear
+   35  git clone https://github.com/alx-tools/Betty.git
+   36  cd betty
+   37  git clone https://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@github.com/KutlwanoRamaqoai/alx-low_level_programming 
+   38  ls
+   39  clear
+   40  cd alx-low_level_programming
+   41  ls
+   42  mkdir 0x06-pointers_arrays_strings
+   43  ls
+   44  cd 0x06-pointers_arrays_strings
+   45  echo '0x06-pointers_arrays_strings' > README.md
+   46  ls
+   47  cat README.md
+   48  clear
+   49  cd ..
+   50  ls
+   51  cd 0x05-pointers_arrays_strings/
+   52  ls
+   53  cp _putchar.c /alx-low_level_programming/0x06-pointers_arrays_strings/
+   54  vi _putchar.c
+   55  cd ..
+   56  cd 0x06-pointers_arrays_strings
+   57  ls
+   58  vi _putchar.c
+   59  vi main.h
+   60  ls
+   61  vi 0-main.c
+   62  clear
+   63  vi 0-strcat.c
+   64  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-strcat.c -o 0-strcat
+   65  gcc 0-strcat.c
+   66  git add .
+   67  git commit -m '0-strcat.c
+   68  '
+   69  git push
+   70   git clone https://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@github.com/KutlwanoRamaqoai/alx-low_level_programming 
+   71  ls
+   72  cd alx-low_level_programming
+   73  clear
+   74  ls
+   75  cd 0x06-pointers_arrays_strings/
+   76  ls
+   77  vi 1-main.c
+   78  vi main.h
+   79  vi 0-strcat.c
+   80  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-strcat.c -o 0-strcat
+   81  -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-strcat.c -o 0-strcat
+   82  clear
+   83  ls
+   84  vi 1-strncat.c
+   85  ls
+   86  vi 2-main.c
+   87  vi 2-strncpy.c
+   88  vi 3-main.c
+   89  vi 3-strcmp.c
+   90  vi 4-main.c
+   91  vi 4-rev_array.c
+   92  betty void reverse_array(int *a, int n)
+   93  betty 4-rev_array.c
+   94  clear
+   95  vi 5-main.c
+   96  vi 5-string_toupper.c
+   97  vi 6-main.c
+   98  vi 6-cap_string.c
+   99  vi main.h
+  100  vi 7-main.c
+  101  vi 7-leet.c
+  102  git add .
+  103  git commit -m 'tasks'
+  104  git push
+  105  cd
+  106  ls
+  107  cd alx-low_level_programming
+  108  clear
+  109  ls
+  110  git pull 
+  111  ls
+  112  git pull 
+  113  clear
+  114  cd ..
+  115  git clone https://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
+  116  @github.com/KutlwanoRamaqoai/alx-low_level_programming
+  117  cd
+  118  ls
+  119  clear
+  120  cd alx-low_level_programming
+  121  mkdir 0x0D-preprocessor
+  122  cd 0x0D-preprocessor
+  123  echo '0x0D-preprocessor' > README.md
+  124  ls
+  125  vi 0-object_like_macro.h
+  126  vi 0-main.c
+  127  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c -o a
+  128  git add .
+  129  git commit -m 'preprocessor'
+  130  git push
+  131  git push
+  132  cd ..
+  133  ls
+  134  rm 0x0D-preprocessor/
+  135  rm -r 0x0D-preprocessor
+  136  ls
+  137  clear
+  138  git pull
+  139  cd ..
+  140  git pull
+  141  ssh 91b63f10562f@91b63f10562f.2a5da226.alx-cod.online
+  142  ls
+  143  clear
+  144  git clone https://github.com/KutlwanoRamaqoai/alx-low_level_programming.git
+  145  cd
+  146  ls
+  147  cd alx-low_level_programming
+  148  clear
+  149  ls
+  150  git update
+  151  git pull
+  152  ls
+  153  ls
+  154  clear
+  155  ls /data
+  156  clear
+  157  ls /
+  158  mkdir Outer_directory
+  159  cd Outer_directory
+  160  mkdir inner_directory
+  161  cd inner_directory
+  162  cd /
+  163  cd home
+  164  cd..
+  165  cd ..
+  166  clear
+  167  echo $USER
+  168  ls
+  169  clear
+  170  git clone https://github.com/Umuzi-org/Kutlwano-Ramaqoai-394-bash-for-bootcamp-.git
+  171  s
+  172  ls
+  173  ~
+  174  cd
+  175  ls
+  176  clear
+  177  git clone https://github.com/Umuzi-org/Kutlwano-Ramaqoai-394-bash-for-bootcamp-.git
+  178  ls
+  179  cd Kutlwano-Ramaqoai-394-bash-for-bootcamp-
+  180  clear
+  181  ls
+  182  vi question1.md
+  183  ls
+  184  vi question2.md
+  185  vi question3.md
+  186  vi question4.md
+  187  vi question5.md
+  188  vi question6.md
+  189  vi question7.md
+  190  vi question8.md
+  191  vi quetsion9.md
+  192  vi question10.md
+  193  vi question11.md
+  194  vi question12.md
+  195  vi question13.md
+  196  clear
+  197  ls
+  198  git add .
+  199  git commit -m 'Beginning Bash'
+  200  git push
+  201  ls
+  202  clear
+  203  cd
+  204  ls
+  205  clear
+  206  git clone https://github.com/Umuzi-org/Kutlwano-Ramaqoai-219-level-1-programming-katas-javascript.git
+  207  ls
+  208  cd Kutlwano-Ramaqoai-219-level-1-programming-katas-javascript
+  209  clear
+  210  ls
+  211  vi task1.js
+  212  git add .
+  213  git add .
+  214  git commit -m 'task1'
+  215  git push
+  216  clear
+  217  vi task2.js
+  218  vi task1.js
+  219  vi task2.js
+  220  git add .
+  221  git add .
+  222  git commit -m 'task2'
+  223  git push
+  224  clear
+  225  vi task3.js
+  226  ls
+  227  vi task3.js
+  228  vi task1.js
+  229  vi task3.js
+  230  git add .
+  231  git add .
+  232  git commit -m 'task3'
+  233  git push
+  234  clear
+  235  vi task4.js
+  236  git add .
+  237  git add .
+  238  git commit -m 'task4'
+  239  git push
+  240  clear
+  241  ls
+  242  vi task5.js
+  243  git add .
+  244  git add .
+  245  git commit -m 'task5'
+  246  git push
+  247  ls
+  248  clear
+  249  vi task6.js
+  250  git add .
+  251  git add .
+  252  git commit -m 'task6'
+  253  git push
+  254  ls
+  255  clear
+  256  vi task7.js
+  257  git add .
+  258  git add .
+  259  git commit -m 'task7'
+  260  git push
+  261  ls
+  262  clear
+  263  ls
+  264  cat README.md
+  265  cat task1.js
+  266  clear
+  267  cd ..
+  268  cd
+  269  ls
+  270  cd Kutlwano-Ramaqoai-394-bash-for-bootcamp-
+  271  ls
+  272  vi question1.md
+  273  vi question2.md
+  274  vi question10.md
+  275  vi question9.md
+  276  vi quetsion9.md
+  277  git add .
+  278  git add .
+  279  git commit -m 'update'
+  280  git push
+  281  clear
+  282  cd ..
+  283  ls
+  284  cd Kutlwano-Ramaqoai-394-bash-for-bootcamp-
+  285  ls
+  286  vi question2.md
+  287  ls/
+  288  vi question2.md
+  289  ls//Kutlwano-Ramaqoai-394-bash-for-bootcamp-
+  290  ls /Kutlwano-Ramaqoai-394-bash-for-bootcamp-
+  291  git add .
+  292  git add .
+  293  git commit -m 'question2 update'
+  294  git push
+  295  cd ..
+  296  ls /Kutlwano-Ramaqoai-394-bash-for-bootcamp-
+  297  ls /
+  298  cd Kutlwano-Ramaqoai-394-bash-for-bootcamp-
+  299  ls /
+  300  vi question2.md
+  301  git add .
+  302  git add .
+  303  git commit -m ' question 2 update'
+  304  git push
+  305  clear
+  306  cd ..
+  307  ls
+  308  cd Kutlwano-Ramaqoai-394-bash-for-bootcamp-
+  309  vi question2.md
+  310  git add .
+  311  git add .
+  312  git commit -m 'question 2 update'
+  313  git push
+  314  clear
+  315  cd ..
+  316  ls
+  317  cd Kutlwano-Ramaqoai-219-level-1-programming-katas-javascript
+  318  ls
+  319  git checkout main
+  320  git pull
+  321  git checkout -b task1/1
+  322  cat
+  323  ls
+  324  cd Kutlwano-Ramaqoai-219-level-1-programming-katas-javascript
+  325  ls
+  326  rm task1.js task2.js task3.js task4.js task5.js task6.js task7.js
+  327  ls
+  328  echo task1.js
+  329  ls
+  330  vi task1.js
+  331  ls
+  332  git add .
+  333  git add .
+  334  git commit -m 'task1'
+  335  git push
+  336  git push --set-upstream origin task1/1
+  337  ls
+  338  ls
+  339  rm tas1.js
+  340  rm task1.js
+  341  ls
+  342  cd Kutlwano-Ramaqoai-219-level-1-programming-katas-javascript
+  343  ls
+  344  git checkout main
+  345  ls
+  346  rm task2.js task3.js task4.js task5.js task6.js task7.js
+  347  ls
+  348  clear
+  349  git add .
+  350  git push
+  351  clear
+  352  git add .
+  353  git commit -m 'deletion of tasks'
+  354  git push
+  355  ls
+  356  clear
+  357  git checkout main
+  358  git pull
+  359  ls
+  360  git checkout -b task1/1
+  361  git checkout task1/1
+  362  ls
+  363  rm task1.js
+  364  ls
+  365  vi task1.js
+  366  git add .
+  367  git commit -m 'task1'
+  368  git push
+  369  ls
+  370  git pull
+  371  ls
+  372  vi task1.js
+  373  git add .
+  374  git commit -m 'task1'
+  375  git push
+  376  ls
+  377  clear
+  378  gh pr create
+  379  git checkout main
+  380  git pull
+  381  git branch --delete task1/1
+  382  git add .
+  383  git commit -m 'branch deletion '
+  384  git push
+  385  ls
+  386  clear
+  387  git checkout -b task/1
+  388  vi task1.js
+  389  vi task1.js
+  390  ls
+  391  vi task1.js
+  392  ls
+  393  vi task1.js
+  394  rm task1.js
+  395  ls
+  396  clear
+  397  vi task1.js
+  398  rm task1.js.swp
+  399  vi task1.js
+  400  rm .task1.js.swp
+  401  ls
+  402  clear
+  403  vi task1.js
+  404  vi task1.js
+  405  git add .
+  406  git commit -m 'task 1'
+  407  git push
+  408  git push --set-upstream origin task/1
+  409  ls
+  410  git checkout main
+  411  ls
+  412  clear
+  413  git checkout -b task/2
+  414  vi task2.js
+  415  git add .
+  416  git add .
+  417  git commit -m 'task 2'
+  418  git push
+  419  git push --set-upstream origin task/2
+  420  ls
+  421  git checkout main
+  422  git checkout -b task/3
+  423  vi task3.js
+  424  git add .
+  425  git add .
+  426  git commit -m 'task 3'
+  427  git push
+  428  git push --set-upstream origin task/3
+  429  git checkout main
+  430  clear
+  431  git checkout -b task/4
+  432  vi task4.js
+  433  ls
+  434  git add .
+  435  git add .
+  436  git commit -m 'task 4'
+  437  git push
+  438  git push --set-upstream origin task/4
+  439  clear
+  440  git checkout main
+  441  git checkout -b task/5
+  442  vi task5.js
+  443  ls
+  444  git add .
+  445  git add .
+  446  git commit -m 'task 5'
+  447  git push
+  448  git push --set-upstream origin task/5
+  449  clear
+  450  git checkout main
+  451  git checkout -b task/6
+  452  vi task6.js
+  453  git add .
+  454  git add .
+  455  git commit -m 'task 6'
+  456  git push
+  457  git push --set-upstream origin task/6
+  458  clear
+  459  git checkout main
+  460  git checkout -b task/7
+  461  vi task7.js
+  462  git add .
+  463  git add .
+  464  git commit -m 'task 7'
+  465  git push
+  466  git push --set-upstream origin task/7
+  467  clear
+  468  git checkout main
+  469  git add .
+  470  git commit -m 'done'
+  471  git push
+  472  clear
+  473  cd ..
+  474  ls
+  475  mkdir git-basic-exercises
+  476  clear
+  477  ls
+  478  cd git-basic-exercises
+  479  clear
+  480  ls -a
+  481  git init
+  482  ls -a
+  483  git status
+  484  touch README.md
+  485  ls -a
+  486  git status
+  487  git log
+  488  git add
+  489  git add .
+  490  git status
+  491  git reset
+  492  git status
+  493  git add .
+  494  git commit -m 'initial commit'
+  495  git log
+  496  q
+  497  nano README.md
+  498  cat README.md
+  499  git status
+  500  git add .
+  501  git add .
+  502  git status
+  503  git commit -m 'second commit'
+  504  nano README.md
+  505  git add .
+  506  git add .
+  507  git commit -m 'third commit'
+  508  git log
+  509  q
+  510  git checkout 884bf24d0bda61dbcb6366b576123d839e58bacc
+  511  cat README.md
+  512  git checkout main
+  513  git checkout main
+  514  git checkout master
+  515  cat README.md
+  516  git branch
+  517  git checkout -b milkshake-flavours
+  518  git branch
+  519  git branch
+  520  nano milkshakes.md
+  521  git status
+  522  git add .
+  523  git add .
+  524  git commit -m 'added initial flavours'
+  525  git log
+  526  git checkout
+  527  git checkout master
+  528  git checkout -b history
+  529  git log
+  530  git branch
+  531  history > history.txt
